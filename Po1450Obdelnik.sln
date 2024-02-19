@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Po1450Obdelnik", "Po1450Obdelnik\Po1450Obdelnik.csproj", "{B4E6F321-1265-4A13-9AA5-7A323F49E772}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4E6F321-1265-4A13-9AA5-7A323F49E772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4E6F321-1265-4A13-9AA5-7A323F49E772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4E6F321-1265-4A13-9AA5-7A323F49E772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4E6F321-1265-4A13-9AA5-7A323F49E772}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCC4C826-4728-4100-800D-CE0769FC8E60}
+	EndGlobalSection
+EndGlobal
